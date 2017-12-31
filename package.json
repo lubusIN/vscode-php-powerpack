@@ -1,0 +1,37 @@
+{
+    "name": "vscode-php-powerpack",
+    "displayName": "PHP PowerPack",
+    "description": "PHP development with visual studio code",
+    "version": "1.0.0",
+    "publisher": "lubus",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#D9ECF8",
+        "theme": "light"
+    },
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://github.com/lubusIN/vscode-php-powerpack",
+    "bugs": {
+        "url": "https://github.com/lubusIN/vscode-php-powerpack/issues",
+        "email": "info@lubus.in"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lubusIN/vscode-php-powerpack.git"
+    },
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "bmewburn.vscode-intelephense-client",
+        "felixfbecker.php-debug",
+        "neilbrayfield.php-docblocker",
+        "ikappas.phpcs",
+        "junstyle.php-cs-fixer",
+        "linyang95.phpmd",
+        "calebporzio.better-phpunit"
+    ]
+}
