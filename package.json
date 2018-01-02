@@ -2,7 +2,7 @@
     "name": "vscode-php-powerpack",
     "displayName": "PHP PowerPack",
     "description": "PHP development with visual studio code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "lubus",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -24,6 +24,12 @@
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "PowerPack",
+        "PHP",
+        "IDE",
+        "WorkFlow"
     ],
     "extensionDependencies": [
         "bmewburn.vscode-intelephense-client",
